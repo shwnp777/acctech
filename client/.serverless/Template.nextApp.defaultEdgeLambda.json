@@ -1,0 +1,17 @@
+{
+  "name": "fnnn02h-lx4176f",
+  "hash": "LLgL0pL276/cCFjLyu30iq9qcOQNWVlKaeShGnM2h2A=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/shawn-patrick/Desktop/siftedmaterial-master/client/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs10.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::742078126833:role/fnnn02h-ep6o7db"
+  },
+  "arn": "arn:aws:lambda:us-east-1:742078126833:function:fnnn02h-lx4176f",
+  "region": "us-east-1"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fnnn02h-ep6o7db",
+  "arn": "arn:aws:iam::742078126833:role/fnnn02h-ep6o7db",
+  "service": [
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
+  ],
+  "policy": {
+    "arn": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  "region": "us-east-1"
+}
